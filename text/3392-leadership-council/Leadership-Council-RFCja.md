@@ -32,7 +32,7 @@
 
 ---
 
-＃RFC要約
+# RFC要約
 
 ## モチベーション
 
@@ -81,9 +81,9 @@ Rustプロジェクトの全チームは、最終的に少なくとも一つの�
 
 リーダーシップ・カウンシルで行われる様々な意思決定には色々なレベルの透明性と監視が必要になります。
 
-オペレーション上の決定の中には[カウンシルが内部で]行うことが可能なものもあり(https://github.com/rust-lang/rfc-leadership-council/blob/main/text/3392-leadership-council.md#decisions-that-the-council-may-make-internally)、後ほどその決定に関してフィードバックを求めることになります。決定の中には[プライベートで行われなければならない]ものがあり(https://github.com/rust-lang/rfc-leadership-council/blob/main/text/3392-leadership-council.md#decisions-that-the-council-must-necessarily-make-privately)、その理由は個人やその他エンティティの私的な詳細に関わるものであり、その詳細を公にすることが個人やエンティティ（例: 安全性）またはプロジェクト に（例:信用を損なう）にネガティブな影響を与える可能性があるからです。[その他の全決定は公に行われなければならず](https://github.com/rust-lang/rfc-leadership-council/blob/main/text/3392-leadership-council.md#decisions-that-the-council-must-make-via-public-proposal)決定に関するフィードバックを前もって受けることができるようにします。
+オペレーション上の決定の中には[カウンシルが内部で](https://github.com/rust-lang/rfc-leadership-council/blob/main/text/3392-leadership-council.md#decisions-that-the-council-may-make-internally)行うことが可能なものもあり、後ほどその決定に関してフィードバックを求めることになります。決定の中には[プライベートで行われなければならない](https://github.com/rust-lang/rfc-leadership-council/blob/main/text/3392-leadership-council.md#decisions-that-the-council-must-necessarily-make-privately)ものがあり、その理由は個人やその他エンティティの私的な詳細に関わるものであり、その詳細を公にすることが個人やエンティティ（例: 安全性）またはプロジェクト に（例:信用を損なう）にネガティブな影響を与える可能性があるからです。[その他の全決定は公に行われなければならず](https://github.com/rust-lang/rfc-leadership-council/blob/main/text/3392-leadership-council.md#decisions-that-the-council-must-make-via-public-proposal)決定に関するフィードバックを前もって受けることができるようにします。
 
-カウンシルの代表者は[利益相反]がある決定に参加したり影響を与えること(https://github.com/rust-lang/rfc-leadership-council/blob/main/text/3392-leadership-council.md#conflicts-of-interest)をしてはなりません。カウンシルはトップレベルチームの範囲の拡大を承認しなければならず、またトップレベルチームの範囲を調整することができます(モデレーションチーム以外に)](https://github.com/rust-lang/rfc-leadership-council/blob/main/text/3392-leadership-council.md#determining-and-changing-team-purviews)。
+カウンシルの代表者は[利益相反](https://github.com/rust-lang/rfc-leadership-council/blob/main/text/3392-leadership-council.md#conflicts-of-interest)がある決定に参加したり影響を与えることをしてはなりません。カウンシルは[トップレベルチームの範囲の拡大を承認しなければならず、またトップレベルチームの範囲を調整することができます(モデレーションチーム以外に)](https://github.com/rust-lang/rfc-leadership-council/blob/main/text/3392-leadership-council.md#determining-and-changing-team-purviews)。
 
 ## 監視とアカウンタビリティの仕組み
 
